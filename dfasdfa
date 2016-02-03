@@ -1,0 +1,65 @@
+[33mcommit bf54d4d1e16e40f35c4a7ef14739544155181c8e[m
+Author: tobuyo <lllll.skyline.lllll+sub1@gmail.com>
+Date:   Wed Feb 3 06:44:15 2016 +0000
+
+    gemfile
+
+[33mcommit 5285375c33997ed46be8a14f8df5915bc4414ee5[m
+Author: tobuyo <lllll.skyline.lllll+sub1@gmail.com>
+Date:   Wed Feb 3 06:34:27 2016 +0000
+
+    destroy
+
+[33mcommit c260e887e243cff2f0f896efe73302bb39dc0fb2[m
+Author: tobuyo <lllll.skyline.lllll+sub1@gmail.com>
+Date:   Wed Feb 3 05:52:55 2016 +0000
+
+    template
+
+[33mcommit b9f26222daca6aa574dad91c30c7e031392f14a6[m
+Author: tobuyo <lllll.skyline.lllll+sub1@gmail.com>
+Date:   Wed Feb 3 05:26:34 2016 +0000
+
+    validation
+
+[33mcommit b32dddc43e3137c4f28943bce59e941327ff928f[m
+Author: tobuyo <lllll.skyline.lllll+sub1@gmail.com>
+Date:   Mon Feb 1 11:03:17 2016 +0000
+
+    toriaezu
+
+[33mcommit b0326298681261430829cb7901342a382e3e26b7[m
+Author: tobuyo <lllll.skyline.lllll+sub1@gmail.com>
+Date:   Mon Feb 1 09:23:13 2016 +0000
+
+    using Bootstrap]
+
+[33mcommit debc6b416adad5be96af8078bd30df7052b56c12[m
+Author: tobuyo <lllll.skyline.lllll+sub1@gmail.com>
+Date:   Mon Feb 1 09:16:03 2016 +0000
+
+    pending
+
+[33mcommit 815834f7e07392176fee500afbf0c5b4bace3984[m
+Author: tobuyo <lllll.skyline.lllll+sub1@gmail.com>
+Date:   Sun Jan 31 13:51:20 2016 +0000
+
+    works
+
+[33mcommit 7d52c8892051bfc8e7ceaf5b2248daf077725e10[m
+Author: tobuyo <lllll.skyline.lllll+sub1@gmail.com>
+Date:   Sun Jan 31 13:48:01 2016 +0000
+
+    create message model
+
+[33mcommit cc6d4bd32ea06ce02c8853d1a66dbe4b1a7fe02d[m
+Author: tobuyo <lllll.skyline.lllll+sub1@gmail.com>
+Date:   Sun Jan 31 13:45:59 2016 +0000
+
+    create messages_controller
+
+[33mcommit b64b6931fdd257db0908372b05f613861c6930b5[m
+Author: tobuyo <lllll.skyline.lllll+sub1@gmail.com>
+Date:   Sun Jan 31 13:34:48 2016 +0000
+
+    load
