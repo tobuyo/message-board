@@ -4,31 +4,7 @@
   </div>
     
   <div class="panel-body">
-    <% @messages.each do |message| %>
-      <span class="label label-info"><%= message.name %></span>
-      <%= message.body %>
-      <%= message.age %>歳
-      
-      <br>
-    <% end %>
-  </div>
-</div>
-
-<%= form_for(@message) do |f| %>
-  <% if @message.errors.present? %>
-    <div class="alert alert-danger">
-      <%= alert %>
-      <ul>
-        <% @message.errors.full_messages.each do |full_message| %>
-          <li>
-            <%= full_message %>
-          </li>
-        <% end %> 
-      </ul>
-    </div>
-  <% end %>
-   <div class="panel-body">
-    <% @messages.each do |message| %>
+  <% @messages.each do |message| %>
       <span class="label label-info"><%= message.name %></span>
         <%= message.body %>
         <%= message.age %>歳
@@ -37,6 +13,12 @@
         )
       <br>
     <% end %>
+  </div>
+</div>
+
+
+   <div class="panel-body">
+    
   </div>
   
 <% #部分テンプレートを読み込んでいる %>
